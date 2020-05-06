@@ -15,7 +15,6 @@ Date | Country | Vehicle | Materia
 2017 | Brazil | TI Inside | [Startup Pronto Rush promete mais eficiência nas entregas](press/startup_pronto_rush_promete_mais_eficiencia_nas_entregas___ti_inside_online_-_web_inside.pdf)
 2017 | Brazil | Campus Party Brasília | [De Brasília para o Mundo – Pensar global faz toda a diferença!](https://youtu.be/V2G-fqyZptw?t=7481)
 2017 | Brazil | Agência Brasília | [Terceiro dia da Campus Party tem palestras sobre educação e empreendedorismo](https://www.agenciabrasilia.df.gov.br/2017/06/16/terceiro-dia-da-campus-party-tem-palestras-sobre-educacao-e-empreendedorismo/)
-2017
 2017 | Brazil | Agência SEBRAE de Notícias | [Parceria aposta em inovação no setor de agronegócios](http://www.agenciasebrae.com.br/sites/asn/uf/NA/parceria-aposta-em-inovacao-no-setor-de-agronegocios,3ef4fac7748ac510VgnVCM1000004c00210aRCRD)
 2017 | USA | THOMSOM REUTERS WESTLAW | [Zipmesh plans IPO to fund organic food sales to undercut Whole Foods](https://content.next.westlaw.com/Document/Ie2981078ea5311e698dc8b09b4f043e0/View/FullText.html?originationContext=docHeader&contextData=(sc.Search)&transitionType=Document&needToInjectTerms=False&docSource=8f205a563e7444869a3d623e2deb893e&firstPage=true&bhcp=1))
 2016 | USA | COMSTOCK'S Magazine | [There’s An ‘Uber’ For That](https://www.comstocksmag.com/web-only/theres-uber)
